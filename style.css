@@ -1,0 +1,31 @@
+body {
+    margin: 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightslategray; 
+    font-family: 'Oswald';           
+}
+
+div {
+    text-align: left; 
+    padding: 20px;
+    border: 1px solid #000; 
+    border-radius: 30px;
+    padding-bottom: 0;
+    background-color: white;
+    box-shadow: -10px 10px ;
+}
+h1{
+    margin: 0px 0px 5px 0px;
+    text-align: center;
+}
+
+.buttons{
+    margin-bottom: 10px;
+}
+
+input{
+    margin: 3px;
+}
